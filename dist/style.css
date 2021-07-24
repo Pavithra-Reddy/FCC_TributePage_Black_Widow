@@ -1,24 +1,23 @@
-body{
+body {
   font-family: sans-serif;
   text-align: center;
-  justify-text: center;
   margin: 0;
   background-color: #000000;
 }
-.header{
+.header {
   background-color: #ed1d24;
-  padding-top:25px;
-  padding-bottom:30px;
+  padding-top: 25px;
+  padding-bottom: 30px;
 }
 #title {
   font-family: Righteous, sans-serif;
-  font-size:40px;
+  font-size: 40px;
   margin: 0;
   color: #000000;
 }
 #tagline {
-  font-family: ABeeZee , sans-serif;
-  font-size:20px;
+  font-family: ABeeZee, sans-serif;
+  font-size: 20px;
   margin: 0;
   color: #ffffff;
 }
@@ -27,7 +26,7 @@ body{
   margin: 40px auto;
 }
 
-img{
+img {
   max-width: 100%;
   display: block;
   height: auto;
@@ -36,31 +35,31 @@ img{
 
 #tribute-info {
   text-align: left;
-  font-family: 'Cantarell', sans-serif;
-  font-size:20px;
+  font-family: "Cantarell", sans-serif;
+  font-size: 20px;
   color: #ed1d24;
   margin: 30px 100px 30px 100px;
 }
 
-#timeline{
-  color:#ffffff;
+#timeline {
+  color: #ffffff;
 }
 
 @media (min-width: 1000px) {
-  #timeline{
+  #timeline {
     background: url("https://i.pinimg.com/originals/ba/5d/4f/ba5d4f53c2fa9f456b887fc2a45cc5e4.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    color:#ffffff;
+    color: #ffffff;
   }
 }
-#img-caption{
+#img-caption {
   color: #ffffff;
   font-size: 10px;
 }
-#references{
-  font-family: 'Blinker', sans-serif;
+#references {
+  font-family: "Blinker", sans-serif;
   color: #ffffff;
   font-size: 20px;
 }
